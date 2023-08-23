@@ -2,6 +2,12 @@
 # Chatbot Project
 
 This is a simple chatbot project developed using JavaScript and the OpenAI API.
+# Technologies Used
+ - Javascript
+ - OpenAI Api
+ - Html
+ - css
+ - json
 
 ## Usage
 
